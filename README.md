@@ -1,15 +1,9 @@
 Ruchit Patel
 
-rpatel18
-
-Spring 2021
-
-Assignment 6: Huffman Coding
-
 ---------------------
 DESCRIPTION
 
-- In this lab, a compression algorithm, Huffman compression, is implemented. 
+- A compression algorithm, Huffman compression, is implemented. 
 - It compresses the input file byte by byte. 
 - The lab can produce four executables: Encode, Decode, and Entropy (source code given).
 - Common Arguments for encoder and decoder:    -h (prints help message), 
@@ -101,3 +95,4 @@ With make:
 
 7. In order to format files, run “make format” in the terminal.
 
+This is a part of a lab designed by Prof. Darrell Long.
